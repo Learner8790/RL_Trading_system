@@ -348,9 +348,6 @@ We welcome contributions that enhance the system's performance or extend its cap
 - Performance improvements are validated through backtesting
 - Documentation is updated to reflect changes
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
