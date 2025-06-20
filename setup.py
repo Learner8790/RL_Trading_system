@@ -13,7 +13,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="enhanced-rl-trading",
     version="2.0.0",
-    author="Your Name",
+    author="Mohan Sai",
     author_email="your.email@example.com",
     description="A sophisticated deep reinforcement learning framework for multi-asset portfolio management in Indian equity markets",
     long_description=long_description,
@@ -26,7 +26,6 @@ setup(
         "Intended Audience :: Financial and Insurance Industry",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Topic :: Office/Business :: Financial :: Investment",
-        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
